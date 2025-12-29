@@ -1,10 +1,3 @@
-#id1: 322808056
-#name1: Yael Aviram
-#username1: yaelaviram1
-#id2: 324085364
-#name2: Shalev Malka
-#username2:shalevmalka
-
 from typing import Optional
 
 class AVLError(Exception):
